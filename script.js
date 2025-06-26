@@ -8,3 +8,5 @@ const procesaTodo =(event) =>{
 
     console.log(datosCompletos);
 }
+
+formulario.addEventListener('submit', procesaTodo);
