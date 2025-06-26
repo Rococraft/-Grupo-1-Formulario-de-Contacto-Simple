@@ -2,7 +2,7 @@ function validateForm() {
     var nombre = document.getElementById("nombre").value;
     var apellido = document.getElementById("apellido").value;
     var email = document.getElementById("email").value;
-    alert(nombre+ " "+apellido+". Hemos recibido tu mensaje. Te contactaremos pronto, en el correo: " + email + ".");const formulario = document.querySelector('#formulario');
+    alert(nombre+ " "+apellido+". Hemos recibido tu mensaje. Te contactaremos pronto, en el correo: " + email + ".");
 }
 const procesaTodo =(event) =>{
     event.preventDefault();
@@ -14,3 +14,4 @@ const procesaTodo =(event) =>{
 }
 
 formulario.addEventListener('submit', procesaTodo);
+formulario.addEventListener('submit', validateForm);
