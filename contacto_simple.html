@@ -9,21 +9,22 @@
 <form id="formulario" onsubmit="procesaTodo(event)">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <center> <h1>¿En que te ayudo? </h1> </center> 
+<main style="text-align: center;">
 <p>
-    <label form="nombre">Nombre y apellidos:</label>
+    <label form="nombre"> <img src="https://images.icon-icons.com/2644/PNG/512/person_fill_icon_159457.png" width="20"/>Nombre y Apellidos:</label>
     <input type="text" name="nombre" id="nombre" placeholder="nombre" required> 
     <input type="text" name="apellido" id="apellido"  placeholder="apellido" required> 
 </p>
 <p>
-    <label form="email">Correo:</label>
+    <label form="email"><img src="https://images.icon-icons.com/1154/PNG/512/1486564396-mail_81524.png" width="22"/>Correo:</label>
     <input type="email" id="email" name="email" placeholder="ejemplo@ejemplo.com" required>
 </p>
 <p>
-    <label form="celular">Celular:</label>
+    <label form="celular"><img src="https://images.vexels.com/media/users/3/204690/isolated/lists/ccb652d1ca11908eeb950eb670c02619-telefono-celular-sonando-icono-azul.png" width="25"/>Celular:</label>
     <input type="text" celular="celular" celular="celular"  maxlength="9" placeholder="123456789" required>
 </p>
 <p>
-        <label form="so">tipo de mensaje -> </label>
+        <label form="so"><img src="https://cdn-icons-png.freepik.com/512/13321/13321276.png" width="25"/>Tipo de Mensaje => </label>
         <select name="so" id="so">
             <option value="reportar errores" selected > reportar errores</option>
             <option value="averías">averías</option>
@@ -32,13 +33,15 @@
         </select>  
 </p>
 <p>
-    <label form="mensaje">mensaje:</label>
+    <label form="mensaje"><img src="https://images.icon-icons.com/2070/PNG/512/feather_icon_125683.png" width="25"/>Mensaje</label>
     <br>
     <textarea name="mensaje" id="mensaje" cols="50" rows="8"></textarea>
 </p>
 <p>
 <button type="submit" >Enviar datos</button>
 </p>
+</main>
+
 </form>
 <script src="script.js"></script>
 <div id="resultado"></div>

@@ -1,9 +1,27 @@
 body {
-  background-image: url("https://media.istockphoto.com/id/1459373176/es/vector/fondo-abstracto-desenfocado-primavera-verano-mar.jpg?s=612x612&w=0&k=20&c=3TfmQIt0uGI0br0VwykBoOzJ1-IAUuGztrzkd3KbaUQ=");
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/691/170/464/fondos-de-pantalla-color-azul-abstract-wallpaper-preview.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 200%; 
 }
 h1{
     font-size: 5em;
+    color: #2e69d7;
+}
+input{
+  border-color: rgb(235, 144, 8);
+}
+main{
+  background-color:#e6e0f8;
+  margin-left: 4cm;
+  margin-right: 4cm;
+  height: 10.2cm;
+}
+label{
+  font-size: 1.3em;
+  color: #461fa8;
+  font-style:oblique;
+}
+textarea{
+  border-color: rgb(235, 144, 8);
 }
