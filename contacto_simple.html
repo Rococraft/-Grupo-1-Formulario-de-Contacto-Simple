@@ -6,6 +6,7 @@
     <title>contacto</title>
 </head>
 <body>
+<form action="mailto:" id="formulario" method="post" enctype="text/plain">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <center> <h1>¿En que te ayudo? </h1> </center> <!-- en el stilo se cambia el tamaño cambiando el numero que esta antes del "em"-->
 <p>
@@ -22,6 +23,15 @@
     <input type="text" celular="celular" celular="celular" value=""maxlength="9" required>
 </p>
 <p>
+        <label for="so">tipo de mensaje</label>
+        <select name="so" id="so">
+            <option value="reportar errores" selected > reportar errores</option>
+            <option value="averías">averías</option>
+            <option value="equipo de oficina">equipo de oficina</option>
+            <option value="otros" >otros</option>
+        </select>  
+</p>
+<p>
     <label for="mensaje">mensaje:</label>
     <br>
     <textarea name="mensaje" id="mensaje" cols="50" rows="8">
@@ -30,6 +40,7 @@
 <p>
 <button type="submit" onclick=validateForm()>Enviar datos</button>
 </p>
+</form>
 </body>
 
 </html>
