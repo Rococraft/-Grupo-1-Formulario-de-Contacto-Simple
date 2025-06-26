@@ -6,7 +6,7 @@ const procesaTodo =(event) =>{
     const datos = new FormData(event.target);
     const datosCompletos = Object.fromEntries(datos.entries());
 
-    console.log(datosCompletos);
+    console.log(JSON.stringify(datosCompletos));
 }
 
 formulario.addEventListener('submit', procesaTodo);
