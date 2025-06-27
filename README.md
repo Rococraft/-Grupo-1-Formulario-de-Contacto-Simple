@@ -9,13 +9,13 @@ Permitir enviar nombre, correo y mensaje.
 La empresa solicitó las siguientes funcionalidades:
 
 - ✅ Diseñar la estructura HTML del formulario.
-✅ Estilizar el formulario con CSS.
-✅ Validar los campos del formulario utilizando JavaScript.
-✅ Simular el envío de datos con json-server.
-✅ Mostrar un mensaje de confirmación después del envío.
-✅ Capacitarnos en el flujo de trabajo y uso de herramientas.
-✅ Documentar el proyecto en un archivo README.
-✅ Subir el proyecto a un repositorio Git.
+- ✅ Estilizar el formulario con CSS.
+- ✅ Validar los campos del formulario utilizando JavaScript.
+- ✅ Simular el envío de datos con json-server.
+- ✅ Mostrar un mensaje de confirmación después del envío.
+- ✅ Capacitarnos en el flujo de trabajo y uso de herramientas.
+- ✅ Documentar el proyecto en un archivo README.
+- ✅ Subir el proyecto a un repositorio Git.
 
 ## 🗂️ Sprint Planning
 Durante la planificación del Sprint, se definieron estas tareas como prioridad:
