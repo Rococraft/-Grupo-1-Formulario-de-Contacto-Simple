@@ -31,13 +31,13 @@ Durante la planificación del Sprint, se definieron estas tareas como prioridad:
 ## 🔧 Sprint Backlog
 Las tareas priorizadas para el Sprint fueron:
 
- ☑️ Diseñar HTML
- ☑️ Simular backend con json-server
- ☑️ Validar campos con JS
- ☑️ Diseñar CSS
- ☑️ Mostrar confirmación
- ☑️ Subir a Git
- ☑️ Documentar en README
+ - ☑️ Diseñar HTML
+ - ☑️ Simular backend con json-server
+ - ☑️ Validar campos con JS
+ - ☑️ Diseñar CSS
+ - ☑️ Mostrar confirmación
+ - ☑️ Subir a Git
+ - ☑️ Documentar en README
 
 ## 🧩 Estado actual de las tareas (Scrum Board)
 To Do
@@ -49,13 +49,13 @@ In Progress
 • 🎥 Video del trabajo
 
 Done
-✅ Diseñar HTML
-✅ Diseñar CSS
-✅ Validar campos con JS
-✅ Simular backend con json-server
-✅ Mostrar confirmación
-✅ Subir a Git
-✅ Crear tabla Scrum en Trello
+- ✅ Diseñar HTML
+- ✅ Diseñar CSS
+- ✅ Validar campos con JS
+- ✅ Simular backend con json-server
+- ✅ Mostrar confirmación
+- ✅ Subir a Git
+- ✅ Crear tabla Scrum en Trello
 
 ## 🛠️ Tecnologías utilizadas
 • HTML5
