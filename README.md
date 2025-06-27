@@ -1,4 +1,4 @@
-# -Grupo-1-Formulario-de-Contacto-Simple
+# Grupo-1-Formulario-de-Contacto-Simple
 ## 📬 Formulario de Contacto Simple
 Este mini proyecto grupal es desarrollado con la función de aplicar la metodología Scrum en un entorno real, utilizando Trello para la gestión de tareas. El objetivo fue simular un modulo de contacto de una empresa. Este debe ser funcional y permitir al usuario enviar sus datos, esto incluye validaciones y simulación de backend.
 
