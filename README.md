@@ -1,6 +1,6 @@
 # -Grupo-1-Formulario-de-Contacto-Simple
 ## 📬 Formulario de Contacto Simple
-Este mini proyecto grupal es desarrollado como parte de una simulación aplicando Scrum, utilizando Trello para la gestión de tareas. El objetivo fue simular un modulo de contacto de una empresa. Este debe ser funcional y permitir al usuario enviar sus datos, esto incluye validaciones y simulación de backend.
+Este mini proyecto grupal es desarrollado con la función de aplicar la metodología Scrum en un entorno real, utilizando Trello para la gestión de tareas. El objetivo fue simular un modulo de contacto de una empresa. Este debe ser funcional y permitir al usuario enviar sus datos, esto incluye validaciones y simulación de backend.
 
 ## 🎯 Sprint Goal
 Permitir enviar nombre, correo y mensaje.
@@ -41,12 +41,12 @@ Las tareas priorizadas para el Sprint fueron:
 
 ## 🧩 Estado actual de las tareas (Scrum Board)
 To Do
-• 🎥 Video del trabajo
+- • 🎥 Video del trabajo
 
 In Progress
-• 📝 Documentar en README
-• 📄 Creación de un .txt con evidencias
-• 🎥 Video del trabajo
+- • 📝 Documentar en README
+- • 📄 Creación de un .txt con evidencias
+- • 🎥 Video del trabajo
 
 Done
 - ✅ Diseñar HTML
@@ -58,23 +58,23 @@ Done
 - ✅ Crear tabla Scrum en Trello
 
 ## 🛠️ Tecnologías utilizadas
-• HTML5
-• CSS3
-• JavaScript 
-• json-server
-• Git + GitHub
-• Trello (gestión ágil con Scrum)
+- • HTML5
+- • CSS3
+- • JavaScript 
+- • json-server
+- • Git + GitHub
+- • Trello (gestión ágil con Scrum)
 
 ## ✅ Resultado
 El formulario permite ingresar los datos y valida los campos antes de enviarlos y simula el almacenamiento con json-server. Al completarse, muestra un mensaje de confirmación para el usuario.
 
 ## 🎓 Lecciones aprendidas
-• Aplicación del marco ágil Scrum en equipo.
-• Planificación y seguimiento de tareas en Trello.
-• Validación de formularios en JavaScript.
-• Simulación de back-end sin servidor real usando json-server.
-• Coordinación y colaboración en entornos Git/GitHub.
+- • Aplicación del marco ágil Scrum en equipo.
+- • Planificación y seguimiento de tareas en Trello.
+- • Validación de formularios en JavaScript.
+- • Simulación de back-end sin servidor real usando json-server.
+- • Coordinación y colaboración en entornos Git/GitHub.
 
 ## 📹 Evidencias
-• 📝 Archivo .txt de seguimiento (en progreso)
-• 🎥 Video explicativo del proyecto (en proceso de edición)
+- • 📝 Archivo .txt de seguimiento (en progreso)
+- • 🎥 Video explicativo del proyecto (en proceso de edición)
