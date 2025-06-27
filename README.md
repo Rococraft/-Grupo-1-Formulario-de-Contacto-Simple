@@ -41,12 +41,12 @@ Las tareas priorizadas para el Sprint fueron:
 
 ## 🧩 Estado actual de las tareas (Scrum Board)
 To Do
-• 🎥 Video del trabajo
+- 🎥 Video del trabajo
 
 In Progress
-• 📝 Documentar en README
-• 📄 Creación de un .txt con evidencias
-• 🎥 Video del trabajo
+- 📝 Documentar en README
+- 📄 Creación de un .txt con evidencias
+- 🎥 Video del trabajo
 
 Done
 - ✅ Diseñar HTML
@@ -58,23 +58,23 @@ Done
 - ✅ Crear tabla Scrum en Trello
 
 ## 🛠️ Tecnologías utilizadas
-- • HTML5
-- • CSS3
-- • JavaScript 
-- • json-server
-- • Git + GitHub
-- • Trello (gestión ágil con Scrum)
+- HTML5
+- CSS3
+- JavaScript 
+- json-server
+- Git + GitHub
+- Trello (gestión ágil con Scrum)
 
 ## ✅ Resultado
 El formulario permite ingresar los datos y valida los campos antes de enviarlos y simula el almacenamiento con json-server. Al completarse, muestra un mensaje de confirmación para el usuario.
 
 ## 🎓 Lecciones aprendidas
-- • Aplicación del marco ágil Scrum en equipo.
-- • Planificación y seguimiento de tareas en Trello.
-- • Validación de formularios en JavaScript.
-- • Simulación de back-end sin servidor real usando json-server.
-- • Coordinación y colaboración en entornos Git/GitHub.
+- Aplicación del marco ágil Scrum en equipo.
+- Planificación y seguimiento de tareas en Trello.
+- Validación de formularios en JavaScript.
+- Simulación de back-end sin servidor real usando json-server.
+- Coordinación y colaboración en entornos Git/GitHub.
 
 ## 📹 Evidencias
-- • 📝 Archivo .txt de seguimiento (en progreso)
-- • 🎥 Video explicativo del proyecto (en proceso de edición)
+- 📝 Archivo .txt de seguimiento (en progreso)
+- 🎥 Video explicativo del proyecto (en proceso de edición)
