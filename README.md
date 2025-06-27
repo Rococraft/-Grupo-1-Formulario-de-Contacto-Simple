@@ -8,7 +8,7 @@ Permitir enviar nombre, correo y mensaje.
 ## 📦 Product Backlog
 La empresa solicitó las siguientes funcionalidades:
 
-✅ Diseñar la estructura HTML del formulario.
+- ✅ Diseñar la estructura HTML del formulario.
 ✅ Estilizar el formulario con CSS.
 ✅ Validar los campos del formulario utilizando JavaScript.
 ✅ Simular el envío de datos con json-server.
