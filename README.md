@@ -5,8 +5,8 @@ Este mini proyecto grupal es desarrollado con la función de aplicar la metodolo
 ## 👥 Roles e Integrantes
 - SCRUM Master: Jordan Salazar 
 - Product Owner: Juanamardo Linares 
-- Paolo Hoyos: Developer 
-- Zaith Saenz: Developer
+- Paolo Hoyos: Developer (HTML, CSS)
+- Zaith Saenz: Developer (JS)
 
 ## 🎯 Sprint Goal
 Permitir enviar nombre, correo y mensaje.
