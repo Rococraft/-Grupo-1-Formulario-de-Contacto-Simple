@@ -20,13 +20,13 @@ La empresa solicitó las siguientes funcionalidades:
 ## 🗂️ Sprint Planning
 Durante la planificación del Sprint, se definieron estas tareas como prioridad:
 
-• Diseñar HTML
-• Diseñar CSS
-• Validar campos con JS
-• Simular envío con json-server
-• Mostrar confirmación
-• Documentar en README
-• Subir a Git
+- Diseñar HTML
+- Diseñar CSS
+- Validar campos con JS
+- Simular envío con json-server
+- Mostrar confirmación
+- Documentar en README
+- Subir a Git
 
 ## 🔧 Sprint Backlog
 Las tareas priorizadas para el Sprint fueron:
