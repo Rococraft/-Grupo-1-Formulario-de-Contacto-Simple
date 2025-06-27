@@ -41,12 +41,12 @@ Las tareas priorizadas para el Sprint fueron:
 
 ## 🧩 Estado actual de las tareas (Scrum Board)
 To Do
-- • 🎥 Video del trabajo
+• 🎥 Video del trabajo
 
 In Progress
-- • 📝 Documentar en README
-- • 📄 Creación de un .txt con evidencias
-- • 🎥 Video del trabajo
+• 📝 Documentar en README
+• 📄 Creación de un .txt con evidencias
+• 🎥 Video del trabajo
 
 Done
 - ✅ Diseñar HTML
